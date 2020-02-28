@@ -1,0 +1,25 @@
+{
+  "name": "mohavewall",
+  "version": "1.0.0",
+  "description": "A clock showing as a desktop background",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"no\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mimea005/MoHave-Clock.git"
+  },
+  "author": "Mimea005",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mimea005/MoHave-Clock/issues"
+  },
+  "homepage": "https://github.com/Mimea005/MoHave-Clock#readme",
+  "devDependencies": {
+    "electron": "^8.0.2"
+  }
+}
